@@ -1,4 +1,4 @@
-# Career Spike
+# Afro-Career
 
 ![Career Spike Logo](https://github.com/Eldorado16/afro-career/blob/main/website/static/assets/img/spike-logo-mod.png)
 
@@ -23,7 +23,7 @@ This presents our preview of our main feature
 
 ![IMG_20220512_230814_614](https://user-images.githubusercontent.com/88307192/168160063-0f58e7c7-c4cc-46f5-99b0-8d212813894f.JPG)
 
-A simple flow for user experience for Career Spike
+A simple flow for user experience for Afro - Career 
 
 ![IMG_20220512_231736_198](https://user-images.githubusercontent.com/88307192/168161038-ea8686a9-4b5c-46d0-a076-7ce536c5ea53.JPG)
 
