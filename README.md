@@ -1,9 +1,9 @@
 # Career Spike
 
-![Career Spike Logo](https://github.com/kwamboka1/Career-Spike/blob/main/website/static/assets/img/spike-logo-mod.png)
+![Career Spike Logo](https://github.com/Eldorado16/afro-career/blob/main/website/static/assets/img/spike-logo-mod.png)
 
 ## The Project 
-[**View the deployed**](https://kwamboka1.github.io/Career-Spike/)
+[**View the deployed**](https://Eldorado16.github.io/afro-career/)
 
 Advanced technology is used in creating online opportunities for young people helping solve the unemployment crisis in developing 
 states. Majority of young people are willing and equipped with
@@ -15,9 +15,7 @@ This is our portfolio project that concludes our foundations Year at ALX-Holbert
 ## The Team
 As a team we warm up to online experiences, freelancing with alot of passion in coding while keeping it fun!
 
-  * Mildred Makori **[Github](https://github.com/kwamboka1)** , **[twitter](https://twitter.com/makori_mildred)**
-  * Nile Okomo **[Github](https://github.com/beingnile)** , **[twitter](https://twitter.com/beingnile)**
-  * Doreen Bett **[Github](https://github.com/doreenbett)** , **[twitter](https://twitter.com/doreenbett)**
+  * Yonas Desta **[Github](https://github.com/Eldorado16)**
 
 ## Project Guide
 
